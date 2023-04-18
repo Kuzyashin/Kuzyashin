@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/kuzyashin)
 #### About 
 
-Turkey, Alanya. Love cool new things, like the cool template below.
+Love cool new things, like the cool template below.
 
 {% awesome_template_for_github_profile %}
 
